@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Amira! 👋
 
-<!--
-**amiradolf24-alt/amiradolf24-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student in **Cybersecurity and Cloud Technologies (CSTC)**
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Cybersecurity
+- Cloud Computing
+- Network Administration
+- Web Development
+- DevOps & Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies & Tools:
+- HTML, CSS, JavaScript
+- C, Java, Python
+- Linux
+- Git & GitHub
+- Networking
+
+🌱 Currently learning and improving my skills in Cybersecurity and Cloud Technologies.
+
+✨ Always learning, always building!
